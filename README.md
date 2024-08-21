@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Student at IIT Kharagpur</h3>
 
 # 💫 About Me:
-Final Year Electrical Engineering Student at IIT Kharagpur
+Final Year Electrical Engineering Student at IIT Kharagpur | 
 Contact me at : ayushkriitkgp@gmail.com
 
 
